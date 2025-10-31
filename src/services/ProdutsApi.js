@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 
 export const ProductsApi = createApi({
   reducerPath: 'productsApi',
-  baseQuery: fetchBaseQuery({ baseUrl: 'https://fakestoreapi.com/' }),
+  baseQuery: fetchBaseQuery({ baseUrl: 'http://localhost:3003/' }),
   endpoints: (builder) => ({
     // query use onley red data
     getProducts: builder.query({
