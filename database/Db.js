@@ -25,18 +25,6 @@
       }
     },
     {
-      "id": "7",
-      "title": "White Gold Plated Princess",
-      "price": 9.99,
-      "description": "Classic design, made of high-quality materials, perfect for any occasion or as a thoughtful gift.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 3,
-        "count": 400
-      }
-    },
-    {
       "id": "8",
       "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
       "price": 10.99,
@@ -47,6 +35,18 @@
         "rate": 1.9,
         "count": 100
       }
+    },
+    {
+      "id": "10",
+      "title": "new",
+      "price": 20,
+      "description": "some"
+    },
+    {
+      "id": "10",
+      "title": "new",
+      "price": 197,
+      "description": "some"
     }
   ]
 }
